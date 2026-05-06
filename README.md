@@ -2,7 +2,7 @@
 
 ![SENAI](https://img.shields.io/badge/Estudante-SENAI-red?style=for-the-badge)
 
-Estudante de **Desenvolvimento de Sistemas**, focado em criar soluções eficientes e aprender novas tecnologias todos os dias.
+Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnologia, focado em construir soluções limpas, eficientes e em constante evolução técnica. Atualmente, busco aprofundar meus conhecimentos em arquitetura de software e desenvolvimento Fullstack.
 
 ---
 
