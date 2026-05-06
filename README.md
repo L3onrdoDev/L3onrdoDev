@@ -24,8 +24,12 @@ Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnolo
 ### 📫 Como me encontrar?
 
 <p align="left">
-<a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Barbosa" height="30" width="40" /></a>
-<a href="mailto:seu-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="seu-email@gmail.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Leonardo_Barbosa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Barbosa LinkedIn Badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="mailto:leonardo.b.contato@email.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-leonardo.b.contato@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Leonardo Barbosa Email Badge" />
+  </a>
 </p>
 
 ---
