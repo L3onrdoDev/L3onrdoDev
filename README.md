@@ -1,15 +1,40 @@
-# Olá, eu sou o Leonardo Barbosa! 👋
+# Olá, eu sou o Leonardo Barbosa! <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obE/giphy.gif" width="25px">
 
-Estudante de Desenvolvimento de Sistemas no SENAI, focado em criar soluções eficientes e aprender novas tecnologias todos os dias.
-
-### 🛠 Tecnologias e Ferramentas:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### 📈 O que estou estudando agora:
-- [ ] Estrutura de Dados
-- [ ] Desenvolvimento Web (React/Node)
-- [ ] Banco de Dados SQL
+Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnologia, focado em construir soluções limpas, eficientes e em constante evolução técnica. Atualmente, busco aprofundar meus conhecimentos em arquitetura de software e desenvolvimento Fullstack.
 
 ---
-📫 Como me encontrar: [link-do-seu-linkedin]
+
+### 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### 🚀 O que estou explorando agora
+- 💻 **Backend:** Aprofundando em lógica com Python e introdução a Node.js.
+- 🏗️ **Arquitetura:** Princípios de Estrutura de Dados e Algoritmos.
+- 🗄️ **Dados:** Modelagem de bancos de dados relacionais (SQL).
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+<a href="https://linkedin.com/in/SEU-USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Barbosa" height="30" width="40" /></a>
+<a href="mailto:seu-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="seu-email@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
+*“O aprendizado é contínuo e a curiosidade é o meu combustível.”*
