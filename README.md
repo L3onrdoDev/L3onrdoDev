@@ -32,3 +32,4 @@ Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnolo
 
 ---
 *“O aprendizado é contínuo e a curiosidade é o meu combustível.”*
+---
