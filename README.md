@@ -21,18 +21,10 @@ Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnolo
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 Vamos nos conectar?
+### 📫 Como me encontrar?
 
 <p align="left">
-<a href="https://linkedin.com/in/SEU-USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Barbosa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonardo Barbosa" height="30" width="40" /></a>
 <a href="mailto:seu-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="seu-email@gmail.com" height="30" width="40" /></a>
 </p>
 
