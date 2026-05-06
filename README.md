@@ -26,10 +26,6 @@ Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnolo
 <p align="left">
   <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Leonardo_Barbosa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Barbosa LinkedIn Badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp; <a href="mailto:leonardo.b.contato@email.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-leonardo.b.contato@email.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Leonardo Barbosa Email Badge" />
-  </a>
 </p>
 
 ---
