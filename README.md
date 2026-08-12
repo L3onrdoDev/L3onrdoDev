@@ -60,9 +60,6 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 <div align="center">
 
-  <!-- Gráfico de Contribuições com fundo 100% transparente e sem preenchimento rosa -->
-  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=0073e6&style=flat-square" alt="Contador de Visitas" />
-
   <br/><br/>
 
   <!-- Cards de Status e Linguagens -->
