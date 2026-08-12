@@ -81,13 +81,18 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 <div align="center">
 
-  <!-- Troque "SEU_USUARIO_GITHUB" abaixo pelo seu usuário exato do GitHub -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  <!-- IMPORTANTE: Substitua 'SEU_USUARIO_AQUI' sem '@' e sem espaços -->
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Perfil%20Visitas&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
 
 </div>
 
