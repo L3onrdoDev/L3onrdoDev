@@ -60,12 +60,12 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 <div align="center">
 
-  <!-- Gráfico de Contribuições (Tema Azul/Tokyonight) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=tokyonight&color=0073e6&line=0073e6&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
+  <!-- Gráfico de Contribuições sem o fundo rosa (Tema Tokyo Night escuro) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
 
   <br/><br/>
 
-  <!-- Cards de Status e Linguagens (Tema Tokyonight) -->
+  <!-- Cards de Status e Linguagens -->
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=tokyonight&title_color=0073e6&icon_color=0073e6&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&theme=tokyonight&title_color=0073e6&hide_border=true" alt="Linguagens Mais Usadas" />
 
