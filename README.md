@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner / Animação em GIF ou SVG -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Leonardo%20Barbosa&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Software%20%7C%20Estudante%20SENAI&descAlignY=62&descScale=18" width="100%" alt="Header Render"/>
 
   <br/>
 
-  <!-- Badges de Status / Redes -->
   <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,9 +16,8 @@
 
   <br/><br/>
 
-  <!-- Digitação Animada do Perfil -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E6EEF&center=true&vCenter=true&width=500&lines=Fullstack+In+Development;Python+%2B+Node.js+%2B+SQL;Apasionado+por+Arquitetura+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E6EEF&center=true&vCenter=true&width=500&lines=Fullstack+In+Development;Python+%2B+Node.js+%2B+SQL;Apaixonado+por+Arquitetura+de+Software" alt="Typing SVG" />
   </a>
 
 </div>
@@ -57,30 +54,22 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 ### 🚀 Projetos em Destaque
 
-<br/>
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📦 Nome do Projeto 1</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/banner-ou-preview.png" width="100%" alt="Preview Projeto 1" fallback="https://via.placeholder.com/400x200?text=Preview+do+Projeto"/>
-      </p>
       <p>Descrição objetiva do projeto. Explique qual problema ele resolve e quais tecnologias foram utilizadas no desenvolvimento.</p>
       <p><b>Techs:</b> <code>Python</code> <code>SQLite</code> <code>Flask</code></p>
       <p align="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b> Ver Repositório »</b></a>
+        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b>Ver Repositório »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Nome do Projeto 2</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/banner-ou-preview.png" width="100%" alt="Preview Projeto 2" fallback="https://via.placeholder.com/400x200?text=Preview+do+Projeto"/>
-      </p>
       <p>Descrição técnica do projeto. Foque nos diferenciais (ex: implementação de algoritmos, consumo de API externa, etc).</p>
       <p><b>Techs:</b> <code>JavaScript</code> <code>Node.js</code> <code>HTML/CSS</code></p>
       <p align="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b> Ver Repositório »</b></a>
+        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b>Ver Repositório »</b></a>
       </p>
     </td>
   </tr>
@@ -88,17 +77,16 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=true" />
 
   <br/><br/>
 
-  <!-- Streak Stats (Dias seguidos com commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true" />
 
 </div>
 
@@ -110,7 +98,6 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
   <br/><br/>
 
-  <!-- Contador de visitas no perfil -->
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Perfil%20Visitas&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
 
 </div>
