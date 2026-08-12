@@ -1,35 +1,116 @@
-# Olá, eu sou o Leonardo Barbosa! <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAmVBMVEXtGyT////qGyPsAArtCxnoo6XkdXrqAADjeHzlAAD8///dS1LuFyHhAADtARPw5ebtxMXkgIXw29727+3mAA3w09Xu3t/ikJPkvsH4+vjeS0zhaWziaXDWh4zZmJ3PjY3pra/gXmTeKDPaDxzltrffpaXUkJXrycnjNDvgJi3hJCfdVl7kr7TcpavcP0fhOULkjIreABPSe3+C7NLUAAAC9klEQVRoge2a3W7iMBCFbezE2Jk4P04CJoUlLZQGaCh9/4fbsaFXkNWqS29W/i6qYCbH4zMzlpBKJj8ICQQCgUAgEAgEAoHHMeEP41act9P4IUyfbtVFRh9EJr4hrr7+qj+H3BHXy9Xql3EBZt09v/Td0QVu4umFeEuz1j1YvxrPLmpb/D62/rF5msY787paLavbzJvrzrsXoTUHLjr80AmuPSKiR4HFkjWutkwUF0GJoX6JqkhwWbqnctyWMgU4dwfAlZLaNyCTHtmnJZ1yAoRFmEEPYuMFDxp/yDJ/Rtpy2NsRW9jquH03VLWcMEygEAIzyiTR3gCFZxoA3gjv0DdJpDsnnQveJqD9KdQJ+IGa7fa4upN5bYyxVJ2BnNH6rK53lOaCiN21WGYCelvBC1W5gN7laHuQWcch8flWLg+LIvWoLU6cnIvc+E8fmlR57bAU35FmD5jzTPPOVeeD6SmNOfQu1OWRj7bivGka6/wAAlqckxLfT3AeGBokekUjBieaAFvjqvNKYXWqzO+fYehME5lR25TN/I74+3w+R1vocagElo6naGuKLSocMaVPHM3FpGO1B5/jwu+xZkTOXW39CSyKvLPRbsG4bNO6jCPXVLrY5Qhu9AbiiCWEU1O5HOlGEIjWa+whjHR28paO2tJYa1UTraPsYjZ2Nr7P6uuOrkVKalIymWnYY317LI5mDNPgT9T1ld8DRZr7E/pqj4KJNcbg5SNrVWiYXGf9q0VQsicux4IRlkop0Tk4oZmXvvITemuL9LbkksCkiAZNWKtUgiOUJIvF4lR/tUihL5NU4kE2JkPOhFSGujzMZcRHLy47CAAcaS1iRc0ZbwE3+1wammjmxumI34Oo1ULrw+VQzxxw3AbNT2rUc/25XC4NNR/PaZr20xojyyG5csBuSAY3To1fs/mQDNdqfCbJMLeHZOH2Yqjyqf/ULdaO3Kh/x7fu838Q17PoQcxubXE9+xjuaAcCgUAgEAgEAoH/nB/9j4WfFP8NEr8/VVa9y0sAAAAASUVORK5CYII=" width="25px">
+<div align="center">
 
-![SENAI](https://img.shields.io/badge/Estudante-SENAI-red?style=for-the-badge)
+  <!-- Header Banner / Animação em GIF ou SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Leonardo%20Barbosa&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Software%20%7C%20Estudante%20SENAI&descAlignY=62&descScale=18" width="100%" alt="Header Render"/>
 
-Estudante de **Desenvolvimento de Sistemas no SENAI**. Sou entusiasta de tecnologia, focado em construir soluções limpas, eficientes e em constante evolução técnica. Atualmente, busco aprofundar meus conhecimentos em arquitetura de software e desenvolvimento Fullstack.
+  <br/>
+
+  <!-- Badges de Status / Redes -->
+  <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.sp.senai.br/">
+    <img src="https://img.shields.io/badge/SENAI-Dev%20Sistemas-red?style=for-the-badge&logo=education" alt="SENAI" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Digitação Animada do Perfil -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E6EEF&center=true&vCenter=true&width=500&lines=Fullstack+In+Development;Python+%2B+Node.js+%2B+SQL;Apasionado+por+Arquitetura+de+Software" alt="Typing SVG" />
+  </a>
+
+</div>
+
+---
+
+### 🧰 Sobre Mim
+
+Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**. Tenho um perfil focado em criar código limpo, escalável e bem estruturado. Atualmente, estou direcionando meus estudos para a construção de soluções Fullstack robustas e aprofundando conceitos de arquitetura de software e engenharia de dados.
+
+- 🔭 **Foco atual:** Construção de APIs RESTful e aplicações Web com Python e Node.js.
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — SENAI.
+- 🧠 **Estudando:** Estrutura de Dados, Algoritmos Avançados, Modelagem SQL e Design Patterns.
+- 💬 **Tópicos de interesse:** Backend Architecture, Clean Code e Ecossistema Open Source.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 💻 Tech Stack
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+<div align="center">
+
+  #### Linguagens & Core
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" alt="Linguagens" />
+
+  #### Backend & Banco de Dados
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sqlite" alt="Backend e Dados" />
+
+  #### Ferramentas & Ambiente
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Ferramentas" />
+
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Nome do Projeto 1</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/banner-ou-preview.png" width="100%" alt="Preview Projeto 1" fallback="https://via.placeholder.com/400x200?text=Preview+do+Projeto"/>
+      </p>
+      <p>Descrição objetiva do projeto. Explique qual problema ele resolve e quais tecnologias foram utilizadas no desenvolvimento.</p>
+      <p><b>Techs:</b> <code>Python</code> <code>SQLite</code> <code>Flask</code></p>
+      <p align="center">
+        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b> Ver Repositório »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Nome do Projeto 2</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/banner-ou-preview.png" width="100%" alt="Preview Projeto 2" fallback="https://via.placeholder.com/400x200?text=Preview+do+Projeto"/>
+      </p>
+      <p>Descrição técnica do projeto. Foque nos diferenciais (ex: implementação de algoritmos, consumo de API externa, etc).</p>
+      <p><b>Techs:</b> <code>JavaScript</code> <code>Node.js</code> <code>HTML/CSS</code></p>
+      <p align="center">
+        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b> Ver Repositório »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 O que estou explorando agora
-- 💻 **Backend:** Aprofundando em lógica com Python e introdução a Node.js.
-- 🏗️ **Arquitetura:** Princípios de Estrutura de Dados e Algoritmos.
-- 🗄️ **Dados:** Modelagem de bancos de dados relacionais (SQL).
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+
+  <br/><br/>
+
+  <!-- Streak Stats (Dias seguidos com commits) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-### 📫 Como me encontrar?
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Leonardo_Barbosa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leonardo Barbosa LinkedIn Badge" />
-</p>
+  <sub><i>“O aprendizado é contínuo e a curiosidade é o meu combustível.”</i></sub>
 
----
-*“O aprendizado é contínuo e a curiosidade é o meu combustível.”*
----
+  <br/><br/>
+
+  <!-- Contador de visitas no perfil -->
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Perfil%20Visitas&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
+
+</div>
