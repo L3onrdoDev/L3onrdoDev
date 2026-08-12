@@ -81,12 +81,26 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+  <!-- Gráfico de Contribuições (Ultra Estável) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Perfil%20Visitas&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
+  <!-- Cards de Status e Linguagens -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
 
+  <br/><br/>
+
+  <!-- Contador de Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub><i>“O aprendizado é contínuo e a curiosidade é o meu combustível.”</i></sub>
 </div>
 
 ---
