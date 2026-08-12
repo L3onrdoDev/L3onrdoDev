@@ -72,7 +72,7 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
   <br/><br/>
 
   <!-- Contador de Visitas -->
-<img src="https://page-views.glitch.me/badge?page_id=L3onrdoDev.readme&color=0073e6&style=flat-square&label=Visitas%20no%20Perfil&start=100" alt="Contador de Visitas" />
+<img src="https://counter.mojoauth.com/badge/L3onrdoDev?color=0073e6&style=flat-square&label=Visitas%20no%20Perfil&offset=100" alt="Contador de Visitas" />
 </div>
 
 ---
