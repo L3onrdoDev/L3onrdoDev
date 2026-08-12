@@ -72,7 +72,7 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
   <br/><br/>
 
   <!-- Contador de Visitas -->
-  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=0073e6&style=flat-square" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=0073e6&style=flat-square&start=140" alt="Contador de Visitas" />
 
 </div>
 
