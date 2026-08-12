@@ -61,7 +61,7 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 <div align="center">
 
   <!-- Gráfico de Contribuições com fundo 100% transparente e sem preenchimento rosa -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=tokyonight&bg_color=00000000&color=0073e6&line=0073e6&point=ffffff&area=false&hide_border=true" width="100%" alt="Gráfico de Atividades" />
+  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=0073e6&style=flat-square" alt="Contador de Visitas" />
 
   <br/><br/>
 
