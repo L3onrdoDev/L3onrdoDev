@@ -1,9 +1,11 @@
 <div align="center">
 
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Leonardo%20Barbosa&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Software%20%7C%20Estudante%20SENAI&descAlignY=62&descScale=18" width="100%" alt="Header Render"/>
 
   <br/>
 
+  <!-- Badges de Status / Redes -->
   <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,6 +18,7 @@
 
   <br/><br/>
 
+  <!-- Digitação Animada do Perfil -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E6EEF&center=true&vCenter=true&width=500&lines=Fullstack+In+Development;Python+%2B+Node.js+%2B+SQL;Apaixonado+por+Arquitetura+de+Software" alt="Typing SVG" />
   </a>
@@ -52,36 +55,11 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Nome do Projeto 1</h3>
-      <p>Descrição objetiva do projeto. Explique qual problema ele resolve e quais tecnologias foram utilizadas no desenvolvimento.</p>
-      <p><b>Techs:</b> <code>Python</code> <code>SQLite</code> <code>Flask</code></p>
-      <p align="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b>Ver Repositório »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Nome do Projeto 2</h3>
-      <p>Descrição técnica do projeto. Foque nos diferenciais (ex: implementação de algoritmos, consumo de API externa, etc).</p>
-      <p><b>Techs:</b> <code>JavaScript</code> <code>Node.js</code> <code>HTML/CSS</code></p>
-      <p align="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB/nome-do-repositorio"><b>Ver Repositório »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <!-- Gráfico de Contribuições (Ultra Estável) -->
+  <!-- Gráfico de Contribuições -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
 
   <br/><br/>
@@ -101,16 +79,4 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 <div align="center">
   <sub><i>“O aprendizado é contínuo e a curiosidade é o meu combustível.”</i></sub>
-</div>
-
----
-
-<div align="center">
-
-  <sub><i>“O aprendizado é contínuo e a curiosidade é o meu combustível.”</i></sub>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Perfil%20Visitas&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
-
 </div>
