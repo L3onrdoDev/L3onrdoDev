@@ -1,26 +1,26 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Leonardo%20Barbosa&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Software%20%7C%20Estudante%20SENAI&descAlignY=62&descScale=18" width="100%" alt="Header Render"/>
+  <!-- Header Banner em tom Azul -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=220&section=header&text=Leonardo%20Barbosa&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Software%20%7C%20Estudante%20SENAI&descAlignY=62&descScale=18" width="100%" alt="Header Render"/>
 
   <br/>
 
   <!-- Badges de Status / Redes -->
   <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:leoopzem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-leoopzem@gmail.com-0073e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.sp.senai.br/">
-    <img src="https://img.shields.io/badge/SENAI-Dev%20Sistemas-red?style=for-the-badge&logo=education" alt="SENAI" />
+    <img src="https://img.shields.io/badge/SENAI-Dev%20Sistemas-0052cc?style=for-the-badge&logo=education" alt="SENAI" />
   </a>
 
   <br/><br/>
 
-  <!-- Digitação Animada do Perfil -->
+  <!-- Digitação Animada do Perfil (Texto em Azul) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E6EEF&center=true&vCenter=true&width=500&lines=Fullstack+In+Development;Python+%2B+Node.js+%2B+SQL;Apaixonado+por+Arquitetura+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0073E6&center=true&vCenter=true&width=500&lines=Fullstack+In+Development;Python+%2B+Node.js+%2B+SQL;Apaixonado+por+Arquitetura+de+Software" alt="Typing SVG" />
   </a>
 
 </div>
@@ -35,6 +35,7 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — SENAI.
 - 🧠 **Estudando:** Estrutura de Dados, Algoritmos Avançados, Modelagem SQL e Design Patterns.
 - 💬 **Tópicos de interesse:** Backend Architecture, Clean Code e Ecossistema Open Source.
+- ✉️ **E-mail:** [leoopzem@gmail.com](mailto:leoopzem@gmail.com)
 
 ---
 
@@ -59,19 +60,19 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 
 <div align="center">
 
-  <!-- Gráfico de Contribuições (Funcionando Perfeitamente) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
+  <!-- Gráfico de Contribuições (Tema Azul/Tokyonight) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L3onrdoDev&theme=tokyonight&color=0073e6&line=0073e6&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
 
   <br/><br/>
 
-  <!-- Cards de Status e Linguagens via API alternativa e estável -->
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
+  <!-- Cards de Status e Linguagens (Tema Tokyonight) -->
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=tokyonight&title_color=0073e6&icon_color=0073e6&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&theme=tokyonight&title_color=0073e6&hide_border=true" alt="Linguagens Mais Usadas" />
 
   <br/><br/>
 
-  <!-- Contador de Visitas -->
-  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=2E6EEF&style=flat-square" alt="Contador de Visitas" />
+  <!-- Contador de Visitas em Azul -->
+  <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas%20no%20Perfil&color=0073e6&style=flat-square" alt="Contador de Visitas" />
 
 </div>
 
