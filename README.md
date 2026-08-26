@@ -51,6 +51,3 @@ Olá! Sou o **Leonardo**, estudante de Desenvolvimento de Sistemas no **SENAI**.
 <div align="center">
   <sub><i>“O aprendizado é contínuo e a curiosidade é o meu combustível.”</i></sub>
 </div>
-
-
-arrume e melhore esse perfil do github em readme.md
