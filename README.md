@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:B983FF&height=200&section=header&text=Leonardo%20Barbosa&fontSize=42&fontAlignY=42&fontColor=ffffff&desc=Backend%20%26%20Fullstack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<h1 align="center">Leonardo Barbosa</h1>
+<p align="center"><sub>Backend &amp; Fullstack Developer</sub></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=560&lines=Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Construindo+APIs+com+Python+%2B+Node.js;Focado+em+Clean+Code+%26+Arquitetura" alt="typing" />
 
