@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leonardo%20Barbosa&fontSize=42&fontAlignY=42&fontColor=ffffff&desc=Backend%20%26%20Fullstack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:B983FF&height=200&section=header&text=Leonardo%20Barbosa&fontSize=42&fontAlignY=42&fontColor=ffffff&desc=Backend%20%26%20Fullstack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=560&lines=Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Construindo+APIs+com+Python+%2B+Node.js;Focado+em+Clean+Code+%26+Arquitetura" alt="typing" />
 
@@ -64,10 +64,6 @@
 
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=B983FF&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B983FF&text_color=c9d1d9" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=L3onrdoDev&theme=radical&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF" />
 
 </div>
 
