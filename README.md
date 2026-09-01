@@ -1,79 +1,85 @@
 <div align="center">
 
-<!-- Banner Estilizado Integrado -->
-<img src="banner.png" alt="Leonardo Barbosa Banner" width="100%" />
+<!-- Banner de Topo Ondulado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=13111C&height=180&section=header&text=Leonardo%20Barbosa&fontSize=45&fontColor=B983FF&animation=fadeIn" width="100%" />
+
+### *Desenvolvedor Backend & Fullstack em formação 🚀💻*
+
+Olá! Sou Leonardo Barbosa — estudante de Desenvolvimento de Sistemas no **SENAI** focado em construir soluções web completas, APIs escaláveis e software com arquitetura sólida. Minha missão? Transformar lógica e código limpo em aplicações eficientes que resolvem problemas reais. 🚀
+
+---
+
+</div>
+
+### 💡 O que me mova
+
+> *"O aprendizado é contínuo e a curiosidade é o meu combustível."*
+
+Sou um desenvolvedor focado na qualidade técnica e em boas práticas de software. Cada linha de código deve ter um propósito claro: entregar estabilidade, desempenho e facilidade de manutenção.
+
+Mais do que apenas programar, quero dominar arquitetura de software, estrutura de dados e construir sistemas preparados para crescer com eficiência. 🚀
+
+---
+
+### 🛠️ Minha pilha tecnológica
+
+<div align="center">
+
+#### 🧰 Linguagens & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,express&theme=dark" />
+
+<br/>
+
+#### 🗄️ Banco de Dados & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,linux,bash&theme=dark" />
+
+<br/>
+
+#### 🎯 Áreas de Atuação
+
+<img src="https://img.shields.io/badge/BACK--END-13111C?style=for-the-badge&logoColor=B983FF&color=13111C" />
+<img src="https://img.shields.io/badge/FULLSTACK-13111C?style=for-the-badge&logoColor=B983FF&color=13111C" />
+<img src="https://img.shields.io/badge/APIs_RESTful-13111C?style=for-the-badge&logoColor=B983FF&color=13111C" />
+<img src="https://img.shields.io/badge/BANCO_DE_DADOS-13111C?style=for-the-badge&logoColor=B983FF&color=13111C" />
+<img src="https://img.shields.io/badge/CLEAN_CODE-13111C?style=for-the-badge&logoColor=B983FF&color=13111C" />
+
+</div>
+
+---
+
+### 🚀 Projetos que estão mudando o jogo
+
+#### 📚 [Projeto Backend Node.js / APIs](#)
+**Tecnologias:** Node.js + Express + PostgreSQL  
+API RESTful completa focada em autenticação, rotas protegidas e estrutura em camadas aplicando Clean Architecture.
+
+---
+
+#### 🐍 [Sistema de Gerenciamento em Python](#)
+**Tecnologias:** Python + SQLite + POO  
+Aplicação desenvolvida para manipulação eficiente de dados com relatórios e conexão rápida a bancos relacionais.
+
+---
+
+#### 🎓 [Projetos e Práticas SENAI](#)
+**Tecnologias:** C++ + HTML/CSS + JavaScript + SQL  
+Repositórios dedicados à consolidação de algoritmos, estruturas de dados e desenvolvimento de sistemas na prática.
+
+---
+
+### 📬 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:leoopzem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369"><img src="https://img.shields.io/badge/-LinkedIn-13111C?style=flat-square&logo=linkedin&logoColor=B983FF" /></a>
-<a href="mailto:leoopzem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-13111C?style=flat-square&logo=gmail&logoColor=B983FF" /></a>
-<a href="https://www.sp.senai.br/"><img src="https://img.shields.io/badge/-SENAI-13111C?style=flat-square&logo=bookstack&logoColor=B983FF" /></a>
-
-</div>
-
-<br>
-
-## `01` Sobre mim
-
-> Estudante de Desenvolvimento de Sistemas no **SENAI**, com foco em construir soluções fullstack robustas — código limpo, escalável e bem estruturado é a prioridade em cada projeto.
-
-| | |
-|---|---|
-| 🔭 | Construindo APIs RESTful e aplicações web com **Python** e **Node.js** |
-| 🎓 | Técnico em Desenvolvimento de Sistemas — **SENAI** |
-| 🧠 | Aprofundando estudos em Estrutura de Dados, Algoritmos, Modelagem SQL e Design Patterns |
-| 💬 | Interesses: Backend Architecture · Clean Code · Open Source |
-| ✉️ | [leoopzem@gmail.com](mailto:leoopzem@gmail.com) |
-
-<br>
-
-## `02` Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Linguagens**
-<br>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark" />
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Dados**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sqlite&theme=dark" />
-
-</td>
-<td valign="top" width="33%">
-
-**Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `03` GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=L3onrdoDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=B983FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L3onrdoDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B983FF&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas+no+perfil&color=B983FF&style=flat-square" />
-
-<br><br>
-
-<sub><i>"O aprendizado é contínuo e a curiosidade é o meu combustível."</i></sub>
+<!-- Banner Rodapé Ondulado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=13111C&height=120&section=footer&text=Construindo%20tecnologia%20com%20estrutura%20e%20prop%C3%B3sito&fontSize=20&fontColor=B983FF" width="100%" />
 
 </div>
