@@ -1,15 +1,13 @@
 <div align="center">
 
-<h1 align="center">Leonardo Barbosa</h1>
-<p align="center"><sub>Backend &amp; Fullstack Developer</sub></p>
+<!-- Banner Estilizado Integrado -->
+<img src="banner.png" alt="Leonardo Barbosa Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=B983FF&center=true&vCenter=true&width=560&lines=Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Construindo+APIs+com+Python+%2B+Node.js;Focado+em+Clean+Code+%26+Arquitetura" alt="typing" />
-
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369"><img src="https://img.shields.io/badge/-LinkedIn-13111C?style=flat-square&logo=linkedin&logoColor=B983FF" /></a>
 <a href="mailto:leoopzem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-13111C?style=flat-square&logo=gmail&logoColor=B983FF" /></a>
-<a href="https://www.sp.senai.br/"><img src="https://img.shields.io/badge/-SENAI-13111C?style=flat-square&logo=googlescholar&logoColor=B983FF" /></a>
+<a href="https://www.sp.senai.br/"><img src="https://img.shields.io/badge/-SENAI-13111C?style=flat-square&logo=bookstack&logoColor=B983FF" /></a>
 
 </div>
 
@@ -73,6 +71,8 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=L3onrdoDev&label=Visitas+no+perfil&color=B983FF&style=flat-square" />
+
+<br><br>
 
 <sub><i>"O aprendizado é contínuo e a curiosidade é o meu combustível."</i></sub>
 
