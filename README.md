@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Banner de Topo Retangular com Animação -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B5B95&height=120&section=header&text=Leonardo%20Barbosa&fontSize=42&fontColor=ffffff&radius=10&animation=fadeIn" width="100%" />
+<!-- Banner de Topo Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B5B95&height=180&section=header&text=Leonardo%20Barbosa&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
 
 <br/><br/>
 
 ### *Desenvolvedor Backend & Fullstack em formação 🚀💻*
 
-Olá! Sou Leonardo Barbosa — estudante de Desenvolvimento de Sistemas no **SENAI** focado em construir soluções web completas, APIs escaláveis e software com arquitetura sólida. Minha missão? Transformar lógica e código limpo em aplicações eficientes que resolvem problemas reais. 🚀
+Olá! Sou Leonardo Barbosa — estudante de Desenvolvimento de Sistemas no **SENAI** focado em construir soluções web completas, aplicações escaláveis e software com arquitetura sólida. Minha missão? Transformar lógica e código limpo em aplicações eficientes que resolvem problemas reais. 🚀
 
 </div>
 
@@ -36,20 +36,17 @@ Mais do que apenas programar, quero dominar arquitetura de software, estrutura d
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 #### 🗄️ Banco de Dados & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 #### 🎯 Áreas de Atuação
@@ -57,7 +54,6 @@ Mais do que apenas programar, quero dominar arquitetura de software, estrutura d
 <p>
   <img src="https://img.shields.io/badge/BACK--END-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FULLSTACK-6B5B95?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs_RESTful-25D366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BANCO_DE_DADOS-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CLEAN_CODE-F7DF1E?style=for-the-badge&logoColor=black" />
 </p>
@@ -68,9 +64,9 @@ Mais do que apenas programar, quero dominar arquitetura de software, estrutura d
 
 ### 🚀 Projetos em Destaque
 
-#### 📚 [Projeto Backend Node.js / APIs](#)
-**Tecnologias:** Node.js + Express + PostgreSQL  
-API RESTful focada em autenticação, rotas protegidas e arquitetura em camadas.
+#### 📚 [Projeto Backend Node.js](#)
+**Tecnologias:** Node.js + MySQL  
+Aplicação focada em autenticação, rotas protegidas e arquitetura em camadas.
 
 ---
 
@@ -98,7 +94,7 @@ Repositórios dedicados à consolidação de algoritmos, estruturas de dados e d
 
 <br/>
 
-<!-- Banner Rodapé Retangular com Animação -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B5B95&height=100&section=footer&text=Desenvolvendo%20tecnologia%20com%20estrutura%20e%20prop%C3%B3sito&fontSize=22&fontColor=ffffff&radius=10&animation=fadeIn" width="100%" />
+<!-- Banner Rodapé Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B5B95&height=120&section=footer&text=Desenvolvendo%20tecnologia%20com%20estrutura%20e%20prop%C3%B3sito&fontSize=22&fontColor=ffffff&animation=twinkle" width="100%" />
 
 </div>
